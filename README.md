@@ -3,26 +3,26 @@
 Aqui você encontra alguns projetos utilizando o soc ESP32. 
 
 <p align="center">
-	<img src="https://wallpaperaccess.com/full/1154058.jpg" />
+	<img src="https://i.ibb.co/kyC6TTg/getting-started-blog.jpg" />
 </p>
 
 ## Conteúdos
 
-- [ESP32](#esp32)
+- [ARDUINO](#arduino)
 - [Arduino IDE e VSCode com Platform IO](#arduino-ide-e-vscode-com-platform-io)
 - [PDF com funcionamento de sensores](#pdf-com-funcionamento-de-sensores)
 
-### ESP32
+### ARDUINO
 
-Um MCU rico em recursos com Wi-Fi integrado e conectividade Bluetooth para uma ampla gama de aplicativos.
-O ESP32 é um sistema em um chip que integra os seguintes recursos:
-- Wi-Fi (banda de 2,4 GHz)
-- Bluetooth
-- Dois núcleos de CPU Xtensa® de 32 bits LX6 de alto desempenho
-- Coprocessador de ultra baixa potência
-- Vários periféricos
-
-Alimentado pela tecnologia de 40 nm, o ESP32 fornece uma plataforma robusta e altamente integrada, que ajuda a atender às demandas contínuas de uso eficiente de energia, design compacto, segurança, alto desempenho e confiabilidade.
+Arduino Uno é uma placa microcontroladora baseada no ATmega328P. Possui:
+- 14 pinos de entrada/saída digital (dos quais 6 podem ser usados como saídas PWM)
+- 6 entradas analógicas, um ressonador cerâmico de 16 MHz (CSTCE16M0V53-R0) 
+- 1 conexão USB
+- 1 conector de alimentação 
+- 1 um conector ICSP 
+- 1 um botão de reset 
+ 
+Ele contém tudo o que é necessário para dar suporte ao microcontrolador; basta conectá-lo a um computador com um cabo USB ou alimentá-lo com um adaptador AC-to-DC ou bateria para começar.
 
 ### Arduino IDE e VSCode com Platform IO
 
