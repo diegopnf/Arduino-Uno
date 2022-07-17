@@ -1,0 +1,15 @@
+Sensor 1:
+Pino Trigger em 4
+Pino Echo em 5
+
+Sensor 2:
+Pino Trigger em 6
+Pino Echo em 7
+
+Servo Motor:
+Pino Data em 8
+
+----------------------------
+
+Projeto tinkercad:
+https://www.tinkercad.com/things/etSq5XwHMqz?sharecode=9aSjcetUsbVHldgzsNi4onlapbPkdsoiBXYi8McbPwc
